@@ -1,0 +1,6 @@
+{
+  "name": "Build Buds",
+  "description": "An AI co-builder chat companion pairing human creativity with intelligent compute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
